@@ -81,6 +81,12 @@ Mesmo assim, aplico diariamente boas práticas de segurança, documentação cla
 <br/>
 <br/>
 Embora meu foco atual seja segurança mobile, também estou aberto a atuar em outras áreas de desenvolvimento e tecnologia, pois acredito que ampliar meus conhecimentos é essencial para evoluir como profissional e contribuir de forma mais completa em qualquer equipe.
-          
+<br/>
+<br/>
+
+---
+### 📋 Experiências profissionais
+
+<img src="./cards.svg" alt="Dois cards" width="100%">
           
         
