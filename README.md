@@ -82,8 +82,8 @@ Mesmo assim, aplico diariamente boas práticas de segurança, documentação cla
 <br/>
 Embora meu foco atual seja segurança mobile, também estou aberto a atuar em outras áreas de desenvolvimento e tecnologia, pois acredito que ampliar meus conhecimentos é essencial para evoluir como profissional e contribuir de forma mais completa em qualquer equipe.
 <br/>
-
-<table>
+<br/>
+<table style="width: 100%;">
 <tr>
 <td style="width: 50%; border: 1px solid #ccc; padding: 10px; vertical-align: top;">
 <h3>Card 1</h3>
