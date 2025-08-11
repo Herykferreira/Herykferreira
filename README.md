@@ -74,6 +74,8 @@ Sou pesquisador de segurança focado em aplicações Android, com experiência p
 
 <br/>
 <br/>
+<br/>
+<br/>
 Grande parte do meu trabalho envolve investigações e descobertas que, por motivos éticos e contratuais, não podem ser publicadas aqui.
 Mesmo assim, aplico diariamente boas práticas de segurança, documentação clara e metodologias reconhecidas na indústria, como OWASP Mobile Security Testing Guide.
 
