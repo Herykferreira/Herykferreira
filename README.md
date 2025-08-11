@@ -13,20 +13,51 @@ Sou pesquisador de segurança focado em aplicações Android, com experiência p
   align="left"
   alt="Java"
   title="Java"
-  style="padding-rigth: 10px; width: 5em;"
+  style="padding-rigth: 10px; width: 4em;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 
 <img 
   align="left"
   alt="Kotlin"
   title="Kotlin"
-  style="padding-rigth: 10px; width: 5em;"
+  style="padding-rigth: 10px; width: 4em;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 
 <img 
   align="left"
   alt="CSS"
   title="CSS"
-  style="padding-rigth: 10px; width: 5em;"
+  style="padding-rigth: 10px; width: 4em;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<img 
+  align="left"
+  alt="HTML"
+  title="HTML"
+  style="padding-rigth: 10px; width: 4em;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+<img 
+  align="left"
+  alt="Javascript"
+  title="Javascript"
+  style="padding-rigth: 10px; width: 4em;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img 
+  align="left"
+  alt="Typescript"
+  title="Typescript"
+  style="padding-rigth: 10px; width: 4em;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
+<img 
+  align="left"
+  alt="Frida"
+  title="Frida"
+  style="padding-rigth: 10px; width: 4em;"
+  src="https://frida.re/favicon.ico" />
+          
+          
+          
         
