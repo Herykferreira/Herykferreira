@@ -84,17 +84,6 @@ Embora meu foco atual seja segurança mobile, também estou aberto a atuar em ou
 <br/>
 <br/>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Card 1</h3>
-      <p>Conteúdo do card 1.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Card 2</h3>
-      <p>Conteúdo do card 2.</p>
-    </td>
-  </tr>
-</table>
+<img src="./cards.svg" alt="Dois cards" width="100%">
           
         
