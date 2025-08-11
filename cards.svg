@@ -2,7 +2,7 @@
   <title id="titleDesc">Dois cards lado a lado</title>
 
   <!-- card 1 -->
-  <rect x="20" y="20" width="560" height="380" rx="12" fill="#0d1117" stroke="none" />
+  <rect x="20" y="20" width="560" height="380" rx="12" fill="#1E232C" stroke="101318" />
   <foreignObject x="40" y="40" width="520" height="340">
     <div xmlns="http://www.w3.org/1999/xhtml"
          style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
@@ -15,7 +15,7 @@
   </foreignObject>
 
   <!-- card 2 -->
-  <rect x="620" y="20" width="560" height="380" rx="12" fill="#0d1117" stroke="none" />
+  <rect x="620" y="20" width="560" height="380" rx="12" fill="#1E232C" stroke="101318" />
   <foreignObject x="640" y="40" width="520" height="340">
     <div xmlns="http://www.w3.org/1999/xhtml"
          style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
