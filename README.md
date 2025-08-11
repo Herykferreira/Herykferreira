@@ -85,11 +85,11 @@ Embora meu foco atual seja segurança mobile, também estou aberto a atuar em ou
 <br/>
 <table style="width: 100%;">
 <tr>
-<td style="width: 50%; border: 1px solid #ccc; padding: 10px; vertical-align: top;">
+<td style="width: 45%; border: 1px solid #ccc; padding: 10px; vertical-align: top; border-radius: 5%">
 <h3>Card 1</h3>
 <p>Conteúdo do primeiro card.</p>
 </td>
-<td style="width: 50%; border: 1px solid #ccc; padding: 10px; vertical-align: top;">
+<td style="width: 45%; border: 1px solid #ccc; padding: 10px; vertical-align: top; border-radius: 5%">
 <h3>Card 2</h3>
 <p>Conteúdo do segundo card.</p>
 </td>
