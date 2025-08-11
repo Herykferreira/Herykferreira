@@ -20,9 +20,10 @@
     <div xmlns="http://www.w3.org/1999/xhtml"
          style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
                 font-size:15px; color:#fff; line-height:1.4;">
-      <h3 style="margin:0 0 8px 0; font-size:18px;">Card 2</h3>
-      <p style="margin:0 0 12px 0;">Conteúdo diferente no segundo card. Edite aqui conforme precisar.</p>
-      <p style="margin:0; font-size:13px; color:#555;">Outro detalhe</p>
+      <h2 style="margin:0 0 8px 0; font-size:18px;">Atendimento ao Cliente</h2>
+      <h3 style="margin:0 0 5px 0;font-weight: normal; color:#aaa;">MEI Heliel Holanda Frota</h3>
+      <p style="margin:0 0 15px 0; font-style: italic; color:#999;">Ago 2024 – Abr 2025</p>
+       <p>Atuei fazendo atendimento ao cliente direto e ajudando no desenvolvimento dos softwares quando possível.</p>
     </div>
   </foreignObject>
 </svg>
