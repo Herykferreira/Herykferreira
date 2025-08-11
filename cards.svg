@@ -7,9 +7,10 @@
     <div xmlns="http://www.w3.org/1999/xhtml"
          style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
                 font-size:15px; color:#fff; line-height:1.4;">
-      <h3 style="margin:0 0 8px 0; font-size:18px;">Card 1</h3>
-      <p style="margin:0 0 12px 0;">Descrição do primeiro card. Coloque aqui o texto que quiser — vai quebrar linha automaticamente.</p>
-      <p style="margin:0; font-size:13px; color:#555;">Linha adicional / detalhe</p>
+      <h2 style="margin:0 0 8px 0; font-size:18px;">Assistente Operacional</h2>
+      <h3 style="margin:0 0 5px 0;font-weight: normal; color:#aaa;">Credfácil</h3>
+      <p style="margin:0 0 15px 0; font-style: italic; color:#999;">Fev 2023 – Abr 2024</p>
+       <p>Atuei fazendo tanto digitação e análise de contratos financeiros quanto atendimento e suporte ao franqueado.</p>
     </div>
   </foreignObject>
 
