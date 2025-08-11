@@ -13,6 +13,6 @@ Sou pesquisador de segurança focado em aplicações Android, com experiência p
   align="left"
   alt="Java"
   title="Java"
-  style="padding-rigth: 10px; width: 10vw;"
+  style="padding-rigth: 10px; width: 5vw;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 
