@@ -83,17 +83,16 @@ Mesmo assim, aplico diariamente boas práticas de segurança, documentação cla
 Embora meu foco atual seja segurança mobile, também estou aberto a atuar em outras áreas de desenvolvimento e tecnologia, pois acredito que ampliar meus conhecimentos é essencial para evoluir como profissional e contribuir de forma mais completa em qualquer equipe.
 <br/>
 <br/>
-<table style="width: 100%;">
-<tr>
-<td style="width: 45%; border: 1px solid #ccc; padding: 10px; vertical-align: top; border-radius: 5%">
-<h3>Card 1</h3>
-<p>Conteúdo do primeiro card.</p>
-</td>
-<td style="width: 45%; border: 1px solid #ccc; padding: 10px; vertical-align: top; border-radius: 5%">
-<h3>Card 2</h3>
-<p>Conteúdo do segundo card.</p>
-</td>
-</tr>
-</table>
+
+<div style="display: flex; width: 100%; gap: 10%;">
+  <div style="width: 45%; border: 1px solid #ddd; box-sizing:border-box;">
+    <h3>Card 1</h3>
+    <p>Conteúdo do card 1.</p>
+  </div>
+  <div style="width: 45%; border: 1px solid #ddd; box-sizing:border-box;">
+    <h3>Card 2</h3>
+    <p>Conteúdo do card 2.</p>
+  </div>
+</div>
           
         
