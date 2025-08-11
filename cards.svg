@@ -2,7 +2,7 @@
   <title id="titleDesc">Dois cards lado a lado</title>
 
   <!-- card 1 -->
-  <rect x="20" y="20" width="560" height="380" rx="12" fill="#0d1117" stroke="1E232C" />
+  <rect x="20" y="20" width="560" height="380" rx="12" fill="#0d1117" stroke="#1E232C" stroke-width="1"/>
   <foreignObject x="40" y="40" width="520" height="340">
     <div xmlns="http://www.w3.org/1999/xhtml"
          style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
@@ -10,12 +10,18 @@
       <h1 style="margin:0 0 8px 0; font-size:18px;">Assistente Operacional</h1>
       <h3 style="margin:0 0 5px 0;font-weight: normal; color:#aaa;">Credfácil</h3>
       <p style="margin:0 0 15px 0; font-style: italic; color:#999;">Fev 2023 – Abr 2024</p>
-       <p>Atuei fazendo tanto digitação e análise de contratos financeiros quanto atendimento e suporte ao franqueado.</p>
+      <p>Atuei fazendo tanto digitação e análise de contratos financeiros quanto atendimento e suporte ao franqueado.</p>
+      <ul style="margin: 8px 0 0 20px; padding: 0; list-style-type: disc; color: #ccc;">
+        <li>Digitação e conferência de documentos</li>
+        <li>Análise detalhada de contratos</li>
+        <li>Suporte direto a franqueados</li>
+        <li>Organização e arquivamento digital</li>
+      </ul>
     </div>
   </foreignObject>
 
   <!-- card 2 -->
-  <rect x="620" y="20" width="560" height="380" rx="12" fill="#0d1117" stroke="1E232C" />
+  <rect x="620" y="20" width="560" height="380" rx="12" fill="#0d1117" stroke="#1E232C" stroke-width="1"/>
   <foreignObject x="640" y="40" width="520" height="340">
     <div xmlns="http://www.w3.org/1999/xhtml"
          style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
@@ -23,7 +29,13 @@
       <h1 style="margin:0 0 8px 0; font-size:18px;">Atendimento ao Cliente</h1>
       <h3 style="margin:0 0 5px 0;font-weight: normal; color:#aaa;">MEI Heliel Holanda Frota</h3>
       <p style="margin:0 0 15px 0; font-style: italic; color:#999;">Ago 2024 – Abr 2025</p>
-       <p>Atuei fazendo atendimento ao cliente em uma empresa de rastreamento de veículos e ajudando no desenvolvimento dos softwares quando possível.</p>
+      <p>Atuei fazendo atendimento ao cliente em uma empresa de rastreamento de veículos e ajudando no desenvolvimento dos softwares quando possível.</p>
+      <ul style="margin: 8px 0 0 20px; padding: 0; list-style-type: disc; color: #ccc;">
+        <li>Suporte técnico ao cliente</li>
+        <li>Orientação sobre rastreamento</li>
+        <li>Testes e sugestões para software</li>
+        <li>Feedback direto para desenvolvedores</li>
+      </ul>
     </div>
   </foreignObject>
 </svg>
