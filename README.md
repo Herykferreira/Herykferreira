@@ -71,8 +71,13 @@ Sou pesquisador de segurança focado em aplicações Android, com experiência p
   title="JADX"
   style="padding-rigth: 10px; width: 4em;"
   src="https://raw.githubusercontent.com/skylot/jadx/master/jadx-gui/src/main/resources/logos/jadx-logo.png" />
-          
-          
+
+---
+
+Grande parte do meu trabalho envolve investigações e descobertas que, por motivos éticos e contratuais, não podem ser publicadas aqui.
+Mesmo assim, aplico diariamente boas práticas de segurança, documentação clara e metodologias reconhecidas na indústria, como OWASP Mobile Security Testing Guide.
+
+Embora meu foco atual seja segurança mobile, também estou aberto a atuar em outras áreas de desenvolvimento e tecnologia, pois acredito que ampliar meus conhecimentos é essencial para evoluir como profissional e contribuir de forma mais completa em qualquer equipe.
           
           
         
