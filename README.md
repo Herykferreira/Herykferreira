@@ -84,15 +84,17 @@ Embora meu foco atual seja segurança mobile, também estou aberto a atuar em ou
 <br/>
 <br/>
 
-<div style="display: flex; width: 100%; gap: 10%; align-items:stretch; flex-wrap:wrap;">
-  <div style="width: 45%; border-style: solid; box-sizing:border-box;">
-    <h3>Card 1</h3>
-    <p>Conteúdo do card 1.</p>
-  </div>
-  <div style="width: 45%; border-style: solid; box-sizing:border-box;">
-    <h3>Card 2</h3>
-    <p>Conteúdo do card 2.</p>
-  </div>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Card 1</h3>
+      <p>Conteúdo do card 1.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Card 2</h3>
+      <p>Conteúdo do card 2.</p>
+    </td>
+  </tr>
+</table>
           
         
