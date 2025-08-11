@@ -16,3 +16,17 @@ Sou pesquisador de segurança focado em aplicações Android, com experiência p
   style="padding-rigth: 10px; width: 5em;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 
+<img 
+  align="left"
+  alt="Kotlin"
+  title="Kotlin"
+  style="padding-rigth: 10px; width: 5em;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+
+<img 
+  align="left"
+  alt="CSS"
+  title="CSS"
+  style="padding-rigth: 10px; width: 5em;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+        
