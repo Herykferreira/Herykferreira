@@ -70,7 +70,7 @@ Sou pesquisador de segurança focado em aplicações Android, com experiência p
   alt="JADX"
   title="JADX"
   style="padding-rigth: 10px; width: 4em;"
-  src="https://a.fsdn.com/allura/mirror/jadx/icon?131cdd8fdcdb36e108acd6af4a0c5b8fe5a6903c8008195e21a76f531bdb5d28?&w=90" />
+  src="https://raw.githubusercontent.com/skylot/jadx/master/jadx-gui/src/main/resources/logos/jadx-logo.png" />
           
           
           
