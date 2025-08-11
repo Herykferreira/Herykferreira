@@ -84,6 +84,9 @@ Embora meu foco atual seja segurança mobile, também estou aberto a atuar em ou
 <br/>
 <br/>
 
+---
+### 📋 Experiências profissionais
+
 <img src="./cards.svg" alt="Dois cards" width="100%">
           
         
