@@ -53,13 +53,6 @@ Sou pesquisador de segurança focado em aplicações Android, com experiência p
 
 <img 
   align="left"
-  alt="Frida"
-  title="Frida"
-  style="padding-rigth: 10px; width: 4em;"
-  src="https://frida.re/favicon.ico" />
-
-<img 
-  align="left"
   alt="PostgreSQL"
   title="PostgreSQL"
   style="padding-rigth: 10px; width: 4em;"
