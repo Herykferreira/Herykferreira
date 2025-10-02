@@ -9,64 +9,64 @@ Sou pesquisador de segurança focado em aplicações Android, com experiência p
 
 ---
 ### 🧷 Linguagens e Tecnologias
-<img
-  align="left"
-  alt="Java"
-  title="Java"
-  style="padding-rigth: 10px; width: 4em;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-
-<img 
-  align="left"
-  alt="Kotlin"
-  title="Kotlin"
-  style="padding-rigth: 10px; width: 4em;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-
-<img 
-  align="left"
-  alt="CSS"
-  title="CSS"
-  style="padding-rigth: 10px; width: 4em;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-<img 
-  align="left"
-  alt="HTML"
-  title="HTML"
-  style="padding-rigth: 10px; width: 4em;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
-<img 
-  align="left"
-  alt="Javascript"
-  title="Javascript"
-  style="padding-rigth: 10px; width: 4em;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<img 
-  align="left"
-  alt="Typescript"
-  title="Typescript"
-  style="padding-rigth: 10px; width: 4em;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-
-<img 
-  align="left"
-  alt="PostgreSQL"
-  title="PostgreSQL"
-  style="padding-rigth: 10px; width: 4em;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-
-<img 
-  align="left"
-  alt="JADX"
-  title="JADX"
-  style="padding-rigth: 10px; width: 4em;"
-  src="https://raw.githubusercontent.com/skylot/jadx/master/jadx-gui/src/main/resources/logos/jadx-logo.png" />
-<div style="clear: both;"></div>
-<br/>
-<br/>
+<p>
+  <img
+    align="left"
+    alt="Java"
+    title="Java"
+    style="padding-rigth: 10px; width: 4em;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  
+  <img 
+    align="left"
+    alt="Kotlin"
+    title="Kotlin"
+    style="padding-rigth: 10px; width: 4em;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  
+  <img 
+    align="left"
+    alt="CSS"
+    title="CSS"
+    style="padding-rigth: 10px; width: 4em;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  
+  <img 
+    align="left"
+    alt="HTML"
+    title="HTML"
+    style="padding-rigth: 10px; width: 4em;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  
+  <img 
+    align="left"
+    alt="Javascript"
+    title="Javascript"
+    style="padding-rigth: 10px; width: 4em;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  
+  <img 
+    align="left"
+    alt="Typescript"
+    title="Typescript"
+    style="padding-rigth: 10px; width: 4em;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  
+  <img 
+    align="left"
+    alt="PostgreSQL"
+    title="PostgreSQL"
+    style="padding-rigth: 10px; width: 4em;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  
+  <img 
+    align="left"
+    alt="JADX"
+    title="JADX"
+    style="padding-rigth: 10px; width: 4em;"
+    src="https://raw.githubusercontent.com/skylot/jadx/master/jadx-gui/src/main/resources/logos/jadx-logo.png" />
+</p>
+<br clear="both"/>
 <br/>
 Grande parte do meu trabalho envolve investigações e descobertas que, por motivos éticos e contratuais, não podem ser publicadas aqui.
 Mesmo assim, aplico diariamente boas práticas de segurança, documentação clara e metodologias reconhecidas na indústria, como OWASP Mobile Security Testing Guide.
