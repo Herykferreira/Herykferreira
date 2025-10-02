@@ -9,7 +9,7 @@ Sou pesquisador de segurança focado em aplicações Android, com experiência p
 
 ---
 ### 🧷 Linguagens e Tecnologias
-<p align="center">
+<p>
   <img
     align="left"
     alt="Java"
@@ -66,6 +66,7 @@ Sou pesquisador de segurança focado em aplicações Android, com experiência p
     style="padding-rigth: 10px; width: 4em;"
     src="https://raw.githubusercontent.com/skylot/jadx/master/jadx-gui/src/main/resources/logos/jadx-logo.png" />
 </p>
+<br clear="both"/>
 <br/>
 <br/>
 <br/>
