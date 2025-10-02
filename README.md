@@ -2,14 +2,14 @@
 
 **`Android Application Pentester`**
 
-Sou pesquisador de segurança focado em aplicações Android, com experiência prática em:
+<div style="width: 100%; display: block;">Sou pesquisador de segurança focado em aplicações Android, com experiência prática em:
 - Análise de vulnerabilidades e exploração controlada de falhas.
 - Engenharia reversa de aplicativos (Smali, Frida, JADX, entre outras ferramentas).
-- Testes de segurança mobile (pentest, análise dinâmica e estática).
+- Testes de segurança mobile (pentest, análise dinâmica e estática).</div>
 
 ---
 ### 🧷 Linguagens e Tecnologias
-<div>
+<div style="width: 100%; display: block;">
 <img
   align="left"
   alt="Java"
@@ -71,17 +71,8 @@ Sou pesquisador de segurança focado em aplicações Android, com experiência p
 <br/>
 <br/>
 <br/>
-Grande parte do meu trabalho envolve investigações e descobertas que, por motivos éticos e contratuais, não podem ser publicadas aqui.
-Mesmo assim, aplico diariamente boas práticas de segurança, documentação clara e metodologias reconhecidas na indústria, como OWASP Mobile Security Testing Guide.
+<div style="width: 100%; display: block;">Grande parte do meu trabalho envolve investigações e descobertas que, por motivos éticos e contratuais, não podem ser publicadas aqui.
+Mesmo assim, aplico diariamente boas práticas de segurança, documentação clara e metodologias reconhecidas na indústria, como OWASP Mobile Security Testing Guide.</div>
 <br/>
 <br/>
-Embora meu foco atual seja segurança mobile, também estou aberto a atuar em outras áreas de desenvolvimento e tecnologia, pois acredito que ampliar meus conhecimentos é essencial para evoluir como profissional e contribuir de forma mais completa em qualquer equipe.
-<br/>
-<br/>
-
----
-### 📋 Experiências profissionais
-
-<img src="./cards.svg" alt="Dois cards" width="100%">
-          
-        
+<div style="width: 100%; display: block;">Embora meu foco atual seja segurança mobile, também estou aberto a atuar em outras áreas de desenvolvimento e tecnologia, pois acredito que ampliar meus conhecimentos é essencial para evoluir como profissional e contribuir de forma mais completa em qualquer equipe.</div>
