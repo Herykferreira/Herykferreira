@@ -2,14 +2,13 @@
 
 **`Android Application Pentester`**
 
-<div style="width: 100%; display: block;">Sou pesquisador de segurança focado em aplicações Android, com experiência prática em:
+Sou pesquisador de segurança focado em aplicações Android, com experiência prática em:
 - Análise de vulnerabilidades e exploração controlada de falhas.
 - Engenharia reversa de aplicativos (Smali, Frida, JADX, entre outras ferramentas).
-- Testes de segurança mobile (pentest, análise dinâmica e estática).</div>
+- Testes de segurança mobile (pentest, análise dinâmica e estática).
 
 ---
 ### 🧷 Linguagens e Tecnologias
-<div style="width: 100%; display: block;">
 <img
   align="left"
   alt="Java"
@@ -65,14 +64,12 @@
   title="JADX"
   style="padding-rigth: 10px; width: 4em;"
   src="https://raw.githubusercontent.com/skylot/jadx/master/jadx-gui/src/main/resources/logos/jadx-logo.png" />
-</div>
-
+<div style="clear: both;"></div>
 <br/>
 <br/>
 <br/>
+Grande parte do meu trabalho envolve investigações e descobertas que, por motivos éticos e contratuais, não podem ser publicadas aqui.
+Mesmo assim, aplico diariamente boas práticas de segurança, documentação clara e metodologias reconhecidas na indústria, como OWASP Mobile Security Testing Guide.
 <br/>
-<div style="width: 100%; display: block;">Grande parte do meu trabalho envolve investigações e descobertas que, por motivos éticos e contratuais, não podem ser publicadas aqui.
-Mesmo assim, aplico diariamente boas práticas de segurança, documentação clara e metodologias reconhecidas na indústria, como OWASP Mobile Security Testing Guide.</div>
 <br/>
-<br/>
-<div style="width: 100%; display: block;">Embora meu foco atual seja segurança mobile, também estou aberto a atuar em outras áreas de desenvolvimento e tecnologia, pois acredito que ampliar meus conhecimentos é essencial para evoluir como profissional e contribuir de forma mais completa em qualquer equipe.</div>
+Embora meu foco atual seja segurança mobile, também estou aberto a atuar em outras áreas de desenvolvimento e tecnologia, pois acredito que ampliar meus conhecimentos é essencial para evoluir como profissional e contribuir de forma mais completa em qualquer equipe.
